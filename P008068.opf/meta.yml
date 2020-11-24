@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG12985
   title: ལྕེ་བཙུན་ཆེན་པོ་བི་མ་ལའི་ཟབ་ཏིག་གཏེར་གཞུང་དང་ཡན་ལག་གི་ཆོས་སྡེའི་སྐོར།
-  volume: ''
+  volume:
+    5bccdd64faa04f3ab67ac9f276f95ba7:
+      image_group_id: I1KG13062
+      title: Volume 1 of lce btsun chen po bi ma la'i zab tig gter gzhung dang yan
+        lag gi chos sde'i skor/
+      volume_number: 1
+      total_pages: 412
   author: ''
+ebook_metadata:
+  title: ལྕེ་བཙུན་ཆེན་པོ་བི་མ་ལའི་ཟབ་ཏིག་གཏེར་གཞུང་དང་ཡན་ལག་གི་ཆོས་སྡེའི་སྐོར།
+  author: ''
+  sku: P008068
+  cover: cover.jpg
+  layers:
+  - pagination
